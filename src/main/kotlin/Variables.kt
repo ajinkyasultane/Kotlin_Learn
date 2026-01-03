@@ -55,9 +55,9 @@ fun main()
     println("Float min value is $floatminvalue")
 
 
-    val  charmaxvalue: Char = Char.MAX_VALUE
-    val charminvalue: Char = Char.MIN_VALUE
-
-    println("Char Max value is $charmaxvalue")
-    println("Char min value is $charminvalue")
+//    val  charmaxvalue: Char = Char.MAX_VALUE
+//    val charminvalue: Char = Char.MIN_VALUE
+//
+//    println("Char Max value is $charmaxvalue")
+//    println("Char min value is $charminvalue")
 }
